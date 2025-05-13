@@ -180,14 +180,14 @@ class NukeBot:
                     # Create webhook and spam if enabled
                     if self.config["webhook_spam"]:
                         try:
-                            webhook = await channel.create_webhook(name="Zen Nuke")
+                            webhook = await channel.create_webhook(name="Zen's Nuke")
                             
                             # Send 5 messages through webhook
-                            for _ in range(5):
+                            for _ in range(15):
                                 await webhook.send(
                                     content=self.config["webhook_message"],
-                                    username="Zen Nuke",
-                                    avatar_url="https://i.imgur.com/QLGmIgK.jpg"
+                                    username="Zen's Nuke",
+                                    avatar_url="https://i.imgur.com/l37uwZa.png"
                                 )
                             self.log("info", f"Webhook spam in {channel.name}")
                         except Exception as e:

@@ -34,4 +34,4 @@ Once all that’s done, you’re good to go.
 
 ---
 
-For test environments only. Don’t be stupid.
+![Image Alt Text](https://raw.githubusercontent.com/Zenxoxz/NUKE-BOT/refs/heads/main/ZEN_NUKE.png)

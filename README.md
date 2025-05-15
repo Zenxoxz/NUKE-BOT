@@ -35,3 +35,9 @@ Once all that’s done, you’re good to go.
 ---
 
 ![Image Alt Text](https://raw.githubusercontent.com/Zenxoxz/NUKE-BOT/refs/heads/main/ZEN_NUKE.png)
+
+## ⚠️ Disclaimer
+
+This tool is for **educational and testing purposes only**.  
+I’m **not responsible** for how you use it — if you get banned, that's on you.  
+Use it **only on servers you own** or have permission to test on.
